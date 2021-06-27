@@ -1,2 +1,2 @@
 # Urba
-Project for mastering gmaps and (hopefully) a little help for understanding urbanism
+Project for mastering map-based vizualizatiosn and (hopefully) a little help for understanding urbanism
